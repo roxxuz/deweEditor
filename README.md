@@ -8,20 +8,20 @@ Simple text editor made with Java Swing in Netbeans
 
 Saving
 ---
-![Save](https://github.com/roxxuz/deweEditor/tree/main/src/texteditor/resources/screenshots/save.png)
+![Save](src/texteditor/resources/screenshots/save.png)
 
 Multiple files/windows
 ---
-![NewWindow](https://github.com/roxxuz/deweEditor/tree/main/src/texteditor/resources/screenshots/new_window.png)
+![NewWindow](src/texteditor/resources/screenshots/new_window.png)
 
 Copy, cut, paste
 ---
-![CopyCutPaste](https://github.com/roxxuz/deweEditor/tree/main/src/texteditor/resources/screenshots/copy_cut_paste.png)
+![CopyCutPaste](src/texteditor/resources/screenshots/copy_cut_paste.png)
 
 Search capabilities
 ---
-![Search](https://github.com/roxxuz/deweEditor/tree/main/src/texteditor/resources/screenshots/search.png)
+![Search](src/texteditor/resources/screenshots/search.png)
 
 Aware of unsaved changes
 ---
-![Search](https://github.com/roxxuz/deweEditor/tree/main/src/texteditor/resources/screenshots/unsaved.png)
+![Search](src/texteditor/resources/screenshots/unsaved.png)
