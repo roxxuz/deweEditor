@@ -43,7 +43,7 @@ public class TextEditor {
         gui.setBounds(300, 40, 450, 600);
         gui.setResizable(false);
         gui.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        gui.setIcon("icons/texteditor.png");
+        gui.setIcon("resources/texteditor.png");
         gui.setVisible(true);
     }
     

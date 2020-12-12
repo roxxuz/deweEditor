@@ -292,7 +292,7 @@ public class TextEditorGUI extends javax.swing.JFrame implements Runnable{
         thread = newThread;
         thread.start();
         
-        playSound("media/deWe - Grebykiosken 1996.wav");
+        playSound("src/texteditor/resources/deWe - Grebykiosken 1996.wav");
         
         
     }//GEN-LAST:event_menuHelpAboutActionPerformed
