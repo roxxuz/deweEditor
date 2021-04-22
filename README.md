@@ -1,7 +1,7 @@
 
 # deweEditor
 
-Simple text editor made with Java Swing in Netbeans
+Simple text editor made with Java and Swing in Netbeans
 
 ----
 
